@@ -9,7 +9,7 @@ This is a "Super Awesome Tech Blog" to be used by anyone who wants to connect wi
 
 ## Demo
 
-Render goes here
+[Render](https://super-awesome-tech-blog.onrender.com/)
 
 ## Authors
 
