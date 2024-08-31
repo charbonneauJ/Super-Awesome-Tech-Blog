@@ -13,7 +13,7 @@ Render goes here
 
 ## Authors
 
-- [@charbonneauj]((https://github.com/charbonneauJ))
+- [@charbonneauj]([https://github.com/charbonneauJ])
 
 ## Github Repo
 
